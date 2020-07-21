@@ -1,0 +1,43 @@
+/*     navbar css highlight     */
+
+.navbar #navbarSupportedContent .navbar-nav .nav-item a {
+    color: white;
+}
+
+.navbar #navbarSupportedContent .navbar-nav .nav-item a:hover {
+    color: #99ffbb;
+}
+
+.back-image {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0%;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+}
+
+
+/* icon services */
+
+.icon-services:hover {
+    color: green;
+}
+
+
+/* end icon hover */
+
+
+/*    text top-heading hover  */
+
+.txt-color:hover {
+    color: green;
+}
+
+
+/* login and registration start */
+
+
+/* end login */
